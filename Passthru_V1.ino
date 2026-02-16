@@ -448,7 +448,7 @@ void processCardUsage() {
 
  
 
-    // uzun bip
+    // uzun beep
 
     tone(BUZZER_PIN, 2500); delay(600); noTone(BUZZER_PIN);
 

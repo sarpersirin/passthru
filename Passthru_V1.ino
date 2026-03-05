@@ -86,7 +86,7 @@ void loop() {
 
  
 
-    // ENTER tuşu (onay)
+    // ENTER tuşu
 
     if (incoming == '\n' || incoming == '\r') {
 
